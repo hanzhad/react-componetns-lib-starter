@@ -1,0 +1,13 @@
+.counter-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    margin: 10px;
+}
+
+.counter-btn {
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+}
